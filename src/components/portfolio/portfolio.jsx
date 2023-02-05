@@ -1,8 +1,8 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
+import IMG1 from '../../assets/projet-ensas-2.png'
+import IMG2 from '../../assets/mine.png'
+import IMG3 from '../../assets/ML.png'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
@@ -11,21 +11,21 @@ const data = [
   {
     id : 1,
     image : IMG1,
-    title : "This is a portfolio item 1 title",
+    title : "[ On going ] Training agent to solve a real world problem using Gym and Tensorflow",
     github : "https://github.com/abdellahelaaroub",
     demo : "github.com/abdellahelaaroub"
   },
   {
     id : 2,
     image : IMG2,
-    title : "This is a portfolio item 2 title",
+    title : "[ On going ] Building a data analytics project for hight heterogeneous data from diffirent ressources (spark, powerBI, NLP)",
     github : "https://github.com/abdellahelaaroub",
     demo : "github.com/abdellahelaaroub"
   },
   {
     id : 3,
     image : IMG3,
-    title : "This is a portfolio item 3 title",
+    title : "[ Done ] ML model generator : web site to make model from dataset with 0 knoledge of ML (Angular, Flsk, nodeJs)",
     github : "https://github.com/abdellahelaaroub",
     demo : "github.com/abdellahelaaroub"
   },

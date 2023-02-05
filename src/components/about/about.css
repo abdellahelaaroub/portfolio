@@ -16,6 +16,7 @@
     );
     display: grid;
     place-items: center;
+    
 }
 
 .about__me-image{
@@ -68,6 +69,16 @@
 .about__content p{
     margin: 2rem 0 2rem;
     color: var(--color-light);
+
+    height: 200px;
+    box-sizing: border-box;
+    overflow: scroll;
+    
+    font-family: 'Great Vibes', cursive;
+    font-size: 15px;
+    line-height: 1.5;
+    text-align: justify;
+    word-wrap: break-word;
 }
 
 
