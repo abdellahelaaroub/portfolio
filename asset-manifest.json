@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c4eb9484.css",
-    "main.js": "/portfolio/static/js/main.c8ee197a.js",
-    "static/media/me.png": "/portfolio/static/media/me.821ecddcb9953b46bf75.png",
-    "static/media/me-about.jpg": "/portfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
-    "static/media/cv.pdf": "/portfolio/static/media/cv.f5ffead7ae2c9dfd480e.pdf",
+    "main.css": "/portfolio/static/css/main.33b0659c.css",
+    "main.js": "/portfolio/static/js/main.a8e49bcc.js",
+    "static/media/me-2.png": "/portfolio/static/media/me-2.2f0a424af836db52fc5c.png",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.f8762eb76afaf4d1b1ee.pdf",
+    "static/media/me.png": "/portfolio/static/media/me.ff979526650189e79071.png",
+    "static/media/mine.png": "/portfolio/static/media/mine.7d5ff1576ba18cd9f5f7.png",
     "static/media/portfolio5.png": "/portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
     "static/media/portfolio6.jpg": "/portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/ML.png": "/portfolio/static/media/ML.a927e1a3f4f6cfb63df3.png",
     "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/portfolio/index.html",
-    "main.c4eb9484.css.map": "/portfolio/static/css/main.c4eb9484.css.map",
-    "main.c8ee197a.js.map": "/portfolio/static/js/main.c8ee197a.js.map"
+    "main.33b0659c.css.map": "/portfolio/static/css/main.33b0659c.css.map",
+    "main.a8e49bcc.js.map": "/portfolio/static/js/main.a8e49bcc.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4eb9484.css",
-    "static/js/main.c8ee197a.js"
+    "static/css/main.33b0659c.css",
+    "static/js/main.a8e49bcc.js"
   ]
 }
