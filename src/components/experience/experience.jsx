@@ -136,7 +136,7 @@ const experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Spark</h4>
+                <h4>PySpark</h4>
                 <small className='text-light'> Beginner </small>
               </div>
             </article>
@@ -148,13 +148,7 @@ const experience = () => {
                 <small className='text-light'> Beginner </small>
               </div>
             </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
-              <div>
-                <h4>Talend</h4>
-                <small className='text-light'> Beginner </small>
-              </div>
-            </article>
+            
           </div>
         </div>
 
@@ -185,20 +179,7 @@ const experience = () => {
               </div>
             </article>
 
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
-              <div>
-                <h4>Jenkins</h4>
-                <small className='text-light'> Beginner </small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon'/>
-              <div>
-                <h4>Terraform</h4>
-                <small className='text-light'> Beginner </small>
-              </div>
-            </article>
+            
           </div>
         </div>
       </div>

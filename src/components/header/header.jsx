@@ -6,12 +6,11 @@ import HeaderSocials from './HeaderSocials'
 
 function header() {
   return (
-    <header>
-      <h6 className='version'>V 0.1</h6>
+    <header>      
       <div className="container header__container">
         <h5>Hello I am</h5>
         <h1>Abdellah ELAAROUB</h1>
-        <h5 className='text-light' >Data Scientist/Engineer</h5>
+        <h5 className='text-light' >Data Engineering and AI student</h5>
         
         <CTA/>
 

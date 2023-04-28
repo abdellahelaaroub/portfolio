@@ -40,8 +40,8 @@ const about = () => {
           </div>
 
           <p>
-            A 4th year student in AI and Data Engineering in National school of Applied sciences of Safi, I start learning data science and AI from my two years of studying in the Higher School of Technology Essaouira (Data Science & BI field 2019-2021).<br />
-            I am a highly passionate individual who is dedicated to advancing my skills in data science/engineering, Cloud  and MLOps.  With a strong foundation in AI and computer science ,  am excited to apply my knowledge to real-world projects/challenges and help bridge the gap between the development and deployment of machine learning models, and look forward to playing a key role in delivering powerful and impactful AI solutions. <br />
+            A 4th year student in AI and Data Engineering at National school of Applied sciences of Safi, I start learning data science and AI from my two years of studying in the Higher School of Technology Essaouira (Data Science & BI field 2019-2021).<br />
+            I am a highly passionate individual who is dedicated to advancing my skills in data engineering, Cloud  and DevOps.  With a strong foundation in AI and computer science ,  am excited to apply my knowledge to real-world projects/challenges and help bridge the gap between the development and deployment of machine learning models, and look forward to playing a key role in delivering powerful and impactful AI solutions. <br />
             I enjoy participanting in programming contests and  engaging in a variety of extracurricular activities such as playing football, video games, and keeping up-to-date with the latest advancements in AI.<br />
             I revel in helping students beginners in their projects and learning journeys. 
           </p>

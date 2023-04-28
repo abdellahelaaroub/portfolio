@@ -11,7 +11,7 @@ const data = [
   {
     id : 1,
     image : IMG1,
-    title : "[ On going ] Training agent to solve a real world problem using Gym and Tensorflow",
+    title : "[ On going ] Training agent to solve a real world problem using Python Gym with MDP, Q-Learning and deep learning",
     github : "https://github.com/abdellahelaaroub",
     demo : "github.com/abdellahelaaroub"
   },
@@ -32,21 +32,21 @@ const data = [
   {
     id : 4,
     image : IMG4,
-    title : "This is a portfolio item 4 title",
+    title : "item will be completed soon..",
     github : "https://github.com/abdellahelaaroub",
     demo : "github.com/abdellahelaaroub"
   },
   {
     id : 5,
     image : IMG5,
-    title : "This is a portfolio item 5 title",
+    title : "item will be completed soon..",
     github : "https://github.com/abdellahelaaroub",
     demo : "github.com/abdellahelaaroub"
   },
   {
     id : 6,
     image : IMG6,
-    title : "This is a portfolio item 6 title",
+    title : "item will be completed soon..",
     github : "https://github.com/abdellahelaaroub",
     demo : "github.com/abdellahelaaroub"
   }
@@ -69,8 +69,8 @@ const portfolio = () => {
                 </div>
                 <h3>{title}</h3>
                 <div className='portfolio__item-cta'>
-                  <a href={github} className='btn' target='_blank'> Github</a>
-                  <a href={demo} className='btn btn-primary' target='_blank'> Live Demo</a>            
+                  <a href={github} className='btn' target='_blank' rel='noreferrer'> Github</a>
+                  <a href={demo} className='btn btn-primary' target='_blank' rel='noreferrer'> Live Demo</a>            
                 </div>
               </article>
             )

@@ -4,15 +4,6 @@ header{
     overflow: hidden;
 }
 
-.version{
-    margin-top: 0rem;
-    left: 2px;
-    position: fixed;
-    width: 1.7rem;
-    border: 1px solid rgba(255, 255, 255, 0.705);
-    border-radius: 3px;
-}
-
 .header__container{
     text-align: center;
     height: 100%;
